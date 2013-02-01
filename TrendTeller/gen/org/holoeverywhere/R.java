@@ -8,8 +8,8 @@ package org.holoeverywhere;
 
 public final class R {
 	public static final class raw {
-		public static final int roboto_bold = 0x7f060000;
 		public static final int roboto_regular = 0x7f060003;
+		public static final int roboto_bold = 0x7f060000;
 		public static final int roboto_bolditalic = 0x7f060001;
 		public static final int roboto_italic = 0x7f060002;
 	}
@@ -29,8 +29,8 @@ public final class R {
 		public static final int abs__max_action_buttons = 0x7f0b0000;
 		public static final int config_shortAnimTime = 0x7f0b0003;
 		public static final int preference_screen_header_scrollbarStyle = 0x7f0b0006;
-		public static final int config_activityShortDur = 0x7f0b0001;
 		public static final int preference_fragment_scrollbarStyle = 0x7f0b0007;
+		public static final int config_activityShortDur = 0x7f0b0001;
 		public static final int preferences_right_pane_weight = 0x7f0b0009;
 		public static final int config_longAnimTime = 0x7f0b0005;
 		public static final int config_mediumAnimTime = 0x7f0b0004;
@@ -778,8 +778,8 @@ public final class R {
 		public static final int progress_bg_holo_light = 0x7f02012a;
 		public static final int textfield_disabled_focused_holo_light = 0x7f02018e;
 		public static final int switch_bg_disabled_holo_light = 0x7f020173;
-		public static final int abs__cab_background_bottom_holo_dark = 0x7f02001a;
 		public static final int abs__tab_selected_holo = 0x7f020060;
+		public static final int abs__cab_background_bottom_holo_dark = 0x7f02001a;
 		public static final int btn_radio_holo_light = 0x7f0200ac;
 		public static final int textfield_multiline_activated_holo_dark = 0x7f020193;
 		public static final int btn_radio_on_disabled_holo_dark = 0x7f0200bb;
@@ -1128,10 +1128,10 @@ public final class R {
 		public static final int abs__action_bar_title_text_size = 0x7f0a0003;
 	}
 	public static final class interpolator {
-		public static final int decelerate_quad = 0x7f050002;
 		public static final int decelerate_cubic = 0x7f050001;
 		public static final int accelerate_quad = 0x7f050000;
 		public static final int decelerate_quint = 0x7f050003;
+		public static final int decelerate_quad = 0x7f050002;
 	}
 	public static final class id {
 		public static final int switchWidget = 0x7f07008b;
@@ -1166,8 +1166,8 @@ public final class R {
 		public static final int system = 0x7f070023;
 		public static final int start = 0x7f07001c;
 		public static final int prefs_frame = 0x7f070084;
-		public static final int bottom = 0x7f070011;
 		public static final int month = 0x7f070071;
+		public static final int bottom = 0x7f070011;
 		public static final int abs__checkbox = 0x7f070042;
 		public static final int abs__search_close_btn = 0x7f070053;
 		public static final int abs__image = 0x7f07003b;
@@ -1646,8 +1646,8 @@ public final class R {
 		public static final int simple_list_item_single_choice = 0x7f030049;
 		public static final int preference_holo = 0x7f030031;
 		public static final int sherlock_spinner_dropdown_item = 0x7f03003e;
-		public static final int alert_dialog_message = 0x7f030019;
 		public static final int abs__search_dropdown_item_icons_2line = 0x7f030014;
+		public static final int alert_dialog_message = 0x7f030019;
 		public static final int abs__simple_dropdown_hint = 0x7f030016;
 		public static final int abs__list_menu_item_checkbox = 0x7f03000b;
 		public static final int simple_list_item_multiple_choice = 0x7f030048;
@@ -1682,8 +1682,8 @@ public final class R {
 		public static final int abs__activitychooserview_choose_application = 0x7f0c0007;
 		public static final int date_picker_increment_day_button = 0x7f0c0017;
 		public static final int ringtone_default = 0x7f0c0022;
-		public static final int abs__share_action_provider_share_with = 0x7f0c0006;
 		public static final int abs__action_menu_overflow_description = 0x7f0c0002;
+		public static final int abs__share_action_provider_share_with = 0x7f0c0006;
 		public static final int number_picker_increment_scroll_mode = 0x7f0c0021;
 		public static final int abs__searchview_description_submit = 0x7f0c000d;
 		public static final int ringtone_silent = 0x7f0c0024;
@@ -1714,10 +1714,10 @@ public final class R {
 	public static final class bool {
 		public static final int preferences_prefer_dual_pane = 0x7f080006;
 		public static final int abs__config_allowActionMenuItemTextWithIcon = 0x7f080005;
-		public static final int abs__action_bar_embed_tabs = 0x7f080000;
-		public static final int abs__config_showMenuShortcutsWhenKeyboardPresent = 0x7f080003;
-		public static final int abs__split_action_bar_is_narrow = 0x7f080001;
 		public static final int abs__action_bar_expanded_action_views_exclusive = 0x7f080002;
+		public static final int abs__config_showMenuShortcutsWhenKeyboardPresent = 0x7f080003;
+		public static final int abs__action_bar_embed_tabs = 0x7f080000;
+		public static final int abs__split_action_bar_is_narrow = 0x7f080001;
 		public static final int abs__config_actionMenuItemAllCaps = 0x7f080004;
 	}
 }
